@@ -1,14 +1,12 @@
 import Title from '@/components/Title'
-
 import React from 'react'
 
-const Teams = () => {
+const Dashboard = () => {
   return (
     <div>
-        <Title>My Team Member 130_+</Title>
-
+        <Title>Welcome to Dashboard</Title>
     </div>
   )
 }
 
-export default Teams
+export default Dashboard
